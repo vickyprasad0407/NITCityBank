@@ -21,4 +21,12 @@ public class JavaUtility {
 		System.out.println("JavaUtility.m4()");
 	}
 	
+	public void m2()
+	{
+		System.out.println("JavaUtility.m2() completed");
+	}
+	public void m3()
+	{
+		System.out.println("JavaUtility.m3()");
+	}
 }
