@@ -12,6 +12,7 @@ public class JavaUtility {
 	
 	public void m1()
 	{
-		System.out.println("utility m1() methods.........abcd");
+
+		System.out.println("utility m1() methods :1234");
 	}
 }
