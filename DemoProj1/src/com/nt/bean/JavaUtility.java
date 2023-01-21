@@ -9,4 +9,9 @@ public class JavaUtility {
 		Date date=new Date();
 		return date;
 	}
+	
+	public void m1()
+	{
+		System.out.println("utility m1() methods");
+	}
 }
