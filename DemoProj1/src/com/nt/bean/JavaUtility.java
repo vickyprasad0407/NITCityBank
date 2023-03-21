@@ -16,6 +16,7 @@ public class JavaUtility {
 		System.out.println("utility m1() methods :1234");
 		System.out.println("some modification.....");
 	}
+
 	public void m4()
 	{
 		System.out.println("JavaUtility.m4()");
@@ -29,4 +30,6 @@ public class JavaUtility {
 	{
 		System.out.println("JavaUtility.m3()");
 	}
+	
+	
 }
